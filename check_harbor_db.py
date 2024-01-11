@@ -1,5 +1,7 @@
 import requests, sys, json, getopt
 
+# comment to test completion of lab 6: 
+
 ## Arguments needed from user ##
 argList = sys.argv[1:]
 
